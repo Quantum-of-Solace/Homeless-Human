@@ -1,5 +1,5 @@
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 redcarpet:
     extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "fenced_code_blocks", "with_toc_data"]
 theme: jekyll-theme-cayman

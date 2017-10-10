@@ -1,13 +1,8 @@
-<html>
-<head><link type="text/css" rel="stylesheet" src="https://github.com/sindresorhus/github-markdown-css"><head>
-<body>
 		Quantum of Solace.life
 -
 Helping Homeless. Because without boots, you can't pull yourself by the straps.
 
 
-<article id="markdown-body" class="post-content markdown-body">
-	{\{ 
 	Housing Resources
 	---
 	| Associated Ministries |
@@ -15,7 +10,3 @@ Helping Homeless. Because without boots, you can't pull yourself by the straps.
 	| ----------------- |
 	|  Mon.-Fri. 9am-12pm. 1-5pm. |	
   	|(253) 682-3401 Phones lines are open Monday, Tuesday, Thursday, Friday 11am-3pm|
-	\}}
-</article>
-</body>
-</html>

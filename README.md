@@ -1,3 +1,6 @@
+## Homeless Human Services
+# a project of the Quantum of Solace church.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Quantum-of-Solace/homelesshuman.services/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

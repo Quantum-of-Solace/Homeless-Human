@@ -1,3 +1,7 @@
+---
+title: Homeless Humans
+---
+
 		Quantum of Solace.life
 -
 Helping Homeless. Because without boots, you can't pull yourself by the straps.

@@ -1,4 +1,3 @@
-# Homeless Human Project #
 _because without boots, how do you pull yourself up by the straps?_ 
 
 * TOC

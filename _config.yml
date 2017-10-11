@@ -1,1 +1,9 @@
 theme: jekyll-theme-modernist
+timezone: America/New_York
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      title: "Homeless Human"

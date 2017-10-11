@@ -1,4 +1,6 @@
 # Services from Associated Ministries
+[Questions and Answers about AP4H](./faq.markdown)
+
 ---
 ## Payee Services
 This program serves chronically homeless individuals and families. This instability is mostly a result of mismanagement of their funds (which may be due to mental or physical disabilities). Protective payee services ensure that rent and utility costs are paid, along with other personal expenses, thus securing stability for the most vulnerable in our community.

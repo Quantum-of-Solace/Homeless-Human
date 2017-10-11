@@ -1,4 +1,11 @@
-# Services from Associated Ministries
+Title:       Rapid Re-Housing  
+Subtitle:    Information for Coordinated Entry in to Rapid Re-Housing  
+Project:     Homeless Humans
+Author:      Rev. Casey Parker  
+Affiliation: Quantum of Solace Ministry  
+Web:         http://quantumofsolace.church
+Date:        2017
+
 [Questions and Answers about AP4H](./faq.markdown)
 
 ## Payee Services

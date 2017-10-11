@@ -1,7 +1,7 @@
 *Because nobody can pull themselves up with no boots.*
 
-[Associated Ministries](http://associatedministries.org] Resources
-
+| ---
+| [Associated Ministries](http://associatedministries.org] Resources
 | [Volunteer](https://associatedministries.org/volunteer/) | [Donate](https://associatedministries.org/donate-2017/)
 
 # Navigation

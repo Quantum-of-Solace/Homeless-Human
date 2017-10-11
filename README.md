@@ -1,7 +1,10 @@
 # Contacts
 
 ## Associated Ministries
-### [Payee Services](#)
+#### * [Coordinated Entry](README.md#coordinated-entry)
+#### * [Emergency Shelters](README.md#emergency-shelters)
+####   * [Pierce County](README.md#pierce-county-shelters)
+#### * [Payee Services](README.md#payee-services-1)
 
 ### Access Point 4 Housing
 
@@ -9,7 +12,8 @@
 *   Mon.-Fri. 9am-5pm (some evening appointments available), closed for lunch 12-1pm.
 *   (253) 682-3401 Phones lines are open Monday, Tuesday, Thursday, Friday 11am-3pm.  
 
-### Emergency Shelters in Pierce County
+### Emergency Shelters
+#### Pierce County Shelters
 
 #### Nativity House. Shelter Men's & Women's Shelter
 *   702 S. 14th, Tacoma (Line forms at 4:30 p.m.)

@@ -1,29 +1,20 @@
 *Because nobody can pull themselves up with no boots.*
-## [Associated Ministries](http://associatedministries.org] Resources ##
 
-[Volunteer](https://associatedministries.org/volunteer/)
+| ---
+| [Associated Ministries](http://associatedministries.org] Resources
+| [Volunteer](https://associatedministries.org/volunteer/) | [Donate](https://associatedministries.org/donate-2017/)
 
-[Donate](https://associatedministries.org/donate-2017/)
+Navigation
 
-| Navigation	|
-
-{{TOC}} 
-
-## [Need Help](https://associatedministries.org/find-help/)
-
--  [Housing](https://associatedministries.org/access-point-for-housing/)
-
--  [Payee Services](https://associatedministries.org/payee-services/)
-
--  [Mail Services](https://associatedministries.org/mail-services/)
-
--  [Family Emergency Fund](https://associatedministries.org/fef/)
-
--  [Resource Center](https://associatedministries.org/community-resource-connections-center-2/)
-
--  [Paint Tacoma-Pierce Beautiful](https://associatedministries.org/paint-tacoma-pierce-beautiful/)
-
--  [Free Tax Prep – Info](https://associatedministries.org/free-tax-prep-info/)
+| ---
+| [Need Help](https://associatedministries.org/find-help/)
+| [Housing](https://associatedministries.org/access-point-for-housing/)
+| [Payee Services](https://associatedministries.org/payee-services/)
+| [Mail Services](https://associatedministries.org/mail-services/)
+| [Family Emergency Fund](https://associatedministries.org/fef/)
+| [Resource Center](https://associatedministries.org/community-resource-connections-center-2/)
+| [Paint Tacoma-Pierce Beautiful](https://associatedministries.org/paint-tacoma-pierce-beautiful/)
+| [Free Tax Prep – Info](https://associatedministries.org/free-tax-prep-info/)
 
 
 ## [Give Help](https://associatedministries.org/community/)

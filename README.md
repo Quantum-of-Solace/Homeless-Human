@@ -4,7 +4,7 @@ title:  "Homeless Human"
 date:   2017-10-10 16:16:01 -0800
 categories: resources
 ---
-
+[Coordinated Entry](#coordinated-entry---rapid-re-housing)
 [Questions and Answers about AP4H](./faq.markdown)
 
 # Payee Services
@@ -36,7 +36,7 @@ As part of the strategic plan to end homelessness in Pierce County and to design
 
 As part of Coordinated Entry, a Coordinated Entry Specialist will work one-on-one with individuals to enable stability. Services will include, but are not limited to, referrals to housing programs or independent housing and assistance/referrals in securing benefits. For rental assistance please call 211.  
 
-* * *
+*R * *
 
 ### Do I Qualify?
 

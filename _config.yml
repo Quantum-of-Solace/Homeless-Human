@@ -1,6 +1,1 @@
-theme: jekyll-theme-tactile
-encoding: UTF-8
-kramdown:
-  input: GFM
-  hard_wrap: false
-  gfm_quirks: paragraph_end
+

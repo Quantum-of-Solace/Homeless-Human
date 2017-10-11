@@ -4,12 +4,17 @@ _because without boots, how do you pull yourself up by the straps?_
 * TOC
 {:toc}
 
+<article id="post-01" class="clearfix post-01 page type-page status-publish hentry">
+<header class="entry-header">
+
+# Housing Resources
+
+</header>
 ### Access Point 4 Housing
 
 #### Coordinated Entry
 *   Mon.-Fri. 9am-5pm (some evening appointments available), closed for lunch 12-1pm.
 *  (253) 682-3401 Phones lines are open Monday, Tuesday, Thursday, Friday 11am-3pm.  
-
 
 ### Emergency Shelters
 #### Pierce County Shelters
@@ -24,8 +29,13 @@ _because without boots, how do you pull yourself up by the straps?_
 
 *  New Life Square Downtown Campus (Single Men) 425 S. Tacoma Ave., Tacoma (Line forms at 3:30 p.m.) 
 
+</article>
+<article id="post-02" class="clearfix post-02 page type-page status-publish hentry">
+<header class="entry-header">
 
-### Payee Services
+# Payee Services
+
+</header>
 
 This program serves chronically homeless individuals and families. This instability is mostly a result of mismanagement of their funds (which may be due to mental or physical disabilities). Protective payee services ensure that rent and utility costs are paid, along with other personal expenses, thus securing stability for the most vulnerable in our community. 
 
@@ -48,9 +58,8 @@ Mon., Tues., Thur., Fri. 1-3 p.m.
 
 [briaz@associatedministries.org](mailto:briaz@associatedministries.org) 
 
-
-<article id="post-239" class="clearfix post-239 page type-page status-publish hentry">
-
+</article>
+<article id="post-03" class="clearfix post-03 page type-page status-publish hentry">
 <header class="entry-header">
 
 # Mail Services
@@ -70,4 +79,4 @@ Mon., Tues., Thur., Fri. 1-3pm. (**CLOSED** on **Wed.** & the **1<sup>st</sup>*
 ### Homeless Mail Service Contact Info
 
 (253) 383-3056 ext. 144  
-[camiliab@associatedministries.org]
+[camiliab@associatedministries.org](mailto:camiliab@associatedministries.org)

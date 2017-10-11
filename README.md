@@ -1,5 +1,3 @@
-# homelesshuman.services
-homelesshuman.services
 ---
 layout: post
 title:  "Homeless Human"

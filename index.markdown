@@ -1,14 +1,13 @@
-Title:       Rapid Re-Housing  
-Subtitle:    Information for Coordinated Entry in to Rapid Re-Housing  
-Project:     Homeless Humans
-Author:      Rev. Casey Parker  
-Affiliation: Quantum of Solace Ministry  
-Web:         http://quantumofsolace.church
-Date:        2017
+---
+layout: post
+title:  "Homeless Human"
+date:   2017-10-10 16:16:01 -0800
+categories: resources
+---
 
 [Questions and Answers about AP4H](./faq.markdown)
 
-## Payee Services
+# Payee Services
 This program serves chronically homeless individuals and families. This instability is mostly a result of mismanagement of their funds (which may be due to mental or physical disabilities). Protective payee services ensure that rent and utility costs are paid, along with other personal expenses, thus securing stability for the most vulnerable in our community.
 
 ### Eligibility Criteria for Protective Payee Service

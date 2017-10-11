@@ -1,26 +1,13 @@
-_because without boots, how do you pull yourself up by the straps?_ 
-
-* TOC
-{:toc}
-
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-
-[Skip to content](https://associatedministries.org/find-help/#content)
-
-
-# [](https://associatedministries.org/)[](https://associatedministries.org/wp-content/uploads/2015/07/am-logocyan-slogan-e1437432881737.jpg)
-
-
-[no alt text](http://14c.b3e.myftpupload.com/wp-content/uploads/2017/01/Coordinated-Entry-Call-1.png)
-
+*Because nobody can pull themselves up with no boots.*
+## Associated Ministries Resources ##
 
 [Volunteer](https://associatedministries.org/volunteer/)
 
 [Donate](https://associatedministries.org/donate-2017/)
 
+| --- |
+| Navigation	|
+| {{TOC}} |
 
 AM Main Menu
 
@@ -97,55 +84,34 @@ AM Main Menu
 -  [Events](https://associatedministries.org/events/)
 
 
-#Need Help
+**Help lift hard-working families out of poverty!  **
+
+## Volunteer Income Tax Assistance
+
+From late January through April 15th, VITA (Volunteer Income Tax Assistance) helps low and moderate-income households through free tax preparation.
 
 
-![no alt text](https://associatedministries.org/wp-content/uploads/2015/11/TentsOnTacomaAve.png)
-![no alt text](https://associatedministries.org/wp-content/uploads/2015/11/SarafinaFamily112015_.png)
-![no alt text](https://associatedministries.org/wp-content/uploads/2015/11/Family-112015_1400.png)
+Each year, nearly 5,000 households in Pierce County are helped by free tax sites. This service brings millions of dollars back into our community through tax credits and refunds, and helps hard-working families pay bills and save for the future.
 
 
-##
-
-##Center for Direct Services
+**How can you help?**
 
 
-Associated Ministries’ Center for Direct Services works with families and individuals throughout Pierce County to build stronger community by building stronger households. Many of our direct services focus upon housing, as the foundation for dignity, stability and growth. These services include providing Centralized Intake for Homelessness Intervention through Access Point for Housing (AP4H); assisting families and individuals with re-housing; working with faith communities to reduce barriers to housing and to create new affordable housing; and youth homelessness prevention.
+Volunteers may serve as: 1) Tax Preparers, who complete tax returns; 2) Quality Reviewers, who check returns for accuracy; 3) Site Coordinators, who oversee tax sites; 4) Greeters, who welcome clients; and 5) Interpreters, who translate for non-English speaking or hearing-impaired customers.
 
 
-The Center for Direct Services strives to work with households from a strength-based approach, identifying the strengths and supports that a household already possesses, and connecting to community and more formal resources to help build toward self-sufficiency. In connecting to community, we seek to engage volunteers in ways that are meaningful for the households and volunteers.
+No experience required, and free training is provided. VITA offers flexible hours (days, evenings and weekends) and locations throughout Pierce County. All VITA sites are IRS-approved. Want to learn more? Click  [**h****ere**](https://associatedministries.org/wp-content/uploads/2016/11/FAQs-for-VITA-volunteers.pdf) for answers to  [**Frequently Asked Questions**](https://associatedministries.org/wp-content/uploads/2016/11/FAQs-for-VITA-volunteers.pdf)!
 
+| VITA VOLUNTEERS |
+| Returning Volunteers | [Apply Here](http://associatedministries.org/returning-vita-volunteer/)
+| --- |
+| NEW Volunteers | [Apply Here](http://associatedministries.org/new-vita-volunteers/) |
 
-[Housing](https://associatedministries.org/access-point-for-housing/) /  [Mail Services](https://associatedministries.org/homeless-mail-service/) /  [Payee Services](https://associatedministries.org/payee-services/) /  [Family Emergency Fund](https://associatedministries.org/fef/) /  [Foreclosure Counseling](https://associatedministries.org/foreclosure-counseling/) /  [Resource Center](https://associatedministries.org/community-resource-connections-center/) /  [Free Tax Preparation](https://associatedministries.org/free-tax-prep-info/) /  [Paint Tacoma – Pierce Beautiful](https://associatedministries.org/paint-tacoma-pierce-beautiful/)
+## Questions?  ##
 
+See our  [FAQs](https://associatedministries.org/wp-content/uploads/2016/11/FAQs-for-VITA-volunteers.pdf) 
 
-[Tweet](https://twitter.com/share?original_referer=/&text=Need+Help&url=https://associatedministries.org/find-help/&via=AM_PierceCo)
-
-[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fassociatedministries.org%2Ffind-help%2F)
-
-[Share](https://www.linkedin.com/cws/share?url=https%3A%2F%2Fassociatedministries.org%2Ffind-help%2F)
-
-
-##Recent Posts
-
-
--
-[And the Community Pillar Award goes to…](https://associatedministries.org/2017/10/community-pillar-award-goes-2/)
-
-
--
-[The Compassion of Faith Communities](https://associatedministries.org/2017/10/compassion-faith-communities/)
-
-
--
-[Community Quarterly Meeting Successes!](https://associatedministries.org/2017/10/community-quarterly-meeting-successes/)
-
-
--
-[Navaratri – A Hindu Fall Celebration!](https://associatedministries.org/2017/09/navaratri-hindu-fall-celebration/)
-
-
--
-[SPECIAL NOTICE: Misrepresenting AM](https://associatedministries.org/2017/09/special-notice-misrepresenting/)
-
-
+| ------------------- |
+| Amy Allison |
+| [amya@associatedministries.org](mailto:amya@associatedministries.org)
+| (253) 426-1516

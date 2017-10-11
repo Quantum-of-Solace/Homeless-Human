@@ -8,23 +8,23 @@
 
 | ---
 | [Need Help](https://associatedministries.org/find-help/)
-| [Housing](https://associatedministries.org/access-point-for-housing/)
-| [Payee Services](https://associatedministries.org/payee-services/)
-| [Mail Services](https://associatedministries.org/mail-services/)
-| [Family Emergency Fund](https://associatedministries.org/fef/)
-| [Resource Center](https://associatedministries.org/community-resource-connections-center-2/)
-| [Paint Tacoma-Pierce Beautiful](https://associatedministries.org/paint-tacoma-pierce-beautiful/)
-| [Free Tax Prep – Info](https://associatedministries.org/free-tax-prep-info/)
+| - [Housing](https://associatedministries.org/access-point-for-housing/)
+- [Payee Services](https://associatedministries.org/payee-services/)
+- [Mail Services](https://associatedministries.org/mail-services/)
+- [Family Emergency Fund](https://associatedministries.org/fef/)
+- [Resource Center](https://associatedministries.org/community-resource-connections-center-2/)
+- [Paint Tacoma-Pierce Beautiful](https://associatedministries.org/paint-tacoma-pierce-beautiful/)
+- [Free Tax Prep – Info](https://associatedministries.org/free-tax-prep-info/)
 | ---
 | [Give Help](https://associatedministries.org/community/)
-| [Donate to AM](https://associatedministries.org/donate-2017/)
-| [Volunteer](https://associatedministries.org/volunteer/)
-| [Amazing Quest](https://associatedministries.org/amazing-quest/)
-| [Lead the Way Home Breakfast](https://associatedministries.org/lead-the-way-home/)
-| [Care Teams](https://associatedministries.org/disaster-readiness/)
-| [Community Chaplaincy](https://associatedministries.org/community-chaplaincy/) 
-| [Paint Tacoma-Pierce Beautiful](https://associatedministries.org/paint-tacoma-pierce-beautiful/)
-| [VITA Volunteers](https://associatedministries.org/volunteer-income-tax-assistance/)
+- [Donate to AM](https://associatedministries.org/donate-2017/)
+- [Volunteer](https://associatedministries.org/volunteer/)
+- [Amazing Quest](https://associatedministries.org/amazing-quest/)
+- [Lead the Way Home Breakfast](https://associatedministries.org/lead-the-way-home/)
+- [Care Teams](https://associatedministries.org/disaster-readiness/)
+- [Community Chaplaincy](https://associatedministries.org/community-chaplaincy/) 
+- [Paint Tacoma-Pierce Beautiful](https://associatedministries.org/paint-tacoma-pierce-beautiful/)
+- [VITA Volunteers](https://associatedministries.org/volunteer-income-tax-assistance/)
 
 
 | ---
